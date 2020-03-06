@@ -1,3 +1,3 @@
 # gabrielaparada.github.io
 
-##my cool new github page!
+## my cool new github page!
